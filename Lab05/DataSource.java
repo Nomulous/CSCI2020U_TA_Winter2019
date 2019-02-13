@@ -1,5 +1,3 @@
-package lab05_inclass_wednesday;
-
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 

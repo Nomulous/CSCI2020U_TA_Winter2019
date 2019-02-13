@@ -1,5 +1,3 @@
-package lab05_inclass_wednesday;
-
 public class PetRecord {
     private String name;
     private String type;

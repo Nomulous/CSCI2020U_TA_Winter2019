@@ -1,5 +1,3 @@
-package lab05_inclass_wednesday;
-
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.TableColumn;
